@@ -7,6 +7,7 @@ ex. Windows 10
 
 ### Installing
 #### How/where to download your program
+#### IDE(Replit)
 #### Any modifications needed to be made to files/folders
 
 ### Executing program
